@@ -34,7 +34,6 @@ sales = []
 
 
 
-
 # @TODO: Initialize dict object to hold our key-value pairs of items and metrics
 report = {}
 
